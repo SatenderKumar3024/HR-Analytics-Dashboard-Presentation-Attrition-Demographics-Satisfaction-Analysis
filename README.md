@@ -1,6 +1,6 @@
 # **HR Analytics Dashboard Presentation: Attrition, Demographics, & Satisfaction Analysis**
 # 1. Introduction
---- Project Overview: This HR Analytics Dashboard aims to analyze key metrics such as employee attrition, demographics, and job satisfaction to provide actionable insights for improving workforce management and reducing turnover.
+ - Project Overview: This HR Analytics Dashboard aims to analyze key metrics such as employee attrition, demographics, and job satisfaction to provide actionable insights for improving workforce management and reducing turnover.
 
 # Objectives:
  - Understand overall attrition rates and identify high-risk areas.
