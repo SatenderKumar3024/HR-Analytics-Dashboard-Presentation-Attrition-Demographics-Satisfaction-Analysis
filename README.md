@@ -1,19 +1,19 @@
 # **HR Analytics Dashboard Presentation: Attrition, Demographics, & Satisfaction Analysis**
 # 1. Introduction
-Project Overview: This HR Analytics Dashboard aims to analyze key metrics such as employee attrition, demographics, and job satisfaction to provide actionable insights for improving workforce management and reducing turnover.
+--- Project Overview: This HR Analytics Dashboard aims to analyze key metrics such as employee attrition, demographics, and job satisfaction to provide actionable insights for improving workforce management and reducing turnover.
 
 # Objectives:
  - Understand overall attrition rates and identify high-risk areas.
  - Analyze demographic patterns within the workforce.
  - Evaluate job satisfaction across different roles and departments.
  - Provide strategic recommendations to enhance employee retention and satisfaction.
- - 
+   
 # 2. Overall Employee Analysis
  - Total Workforce: 1470 employees are currently in the organization.
  - Active Employees: Out of the total, 1233 employees are active.
  - Attrition Rate: The organization has a 16.12% attrition rate, with 237 employees having left.
  - Key Insight: The attrition rate is higher than the industry average, signaling potential issues in employee satisfaction or organizational culture.
- - 
+   
 # 3. Department-Wise Attrition Analysis
  - R&D Department: The highest attrition rate is in the Research & Development (R&D) department, accounting for 56.12% of total attrition.
  - Sales Department: The second-highest attrition rate is in Sales, contributing to 38.82% of total attrition.
